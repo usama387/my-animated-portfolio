@@ -5,7 +5,7 @@ import Services from "./components/Services/Services";
 
 const App = () => {
   return (
-    <div className="">
+    <div className="container">
       <Hero />
       <Services />
       <Portfolio />
